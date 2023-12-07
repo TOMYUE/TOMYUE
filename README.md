@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently studying in East China Normal University Data Science and Engineering faculty.
-- 🔭 I’m currently working on MRSS project with my partners, it will soon be published.
+- 🔭 I’m currently working on RISC-V and binary optimization projects.
 - ⚡ Fun things: guess or contact me!!!
+📮:ytang@stu.ecnu.edu.cn
