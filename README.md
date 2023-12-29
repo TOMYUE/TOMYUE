@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently studying in East China Normal University Data Science and Engineering faculty.
-- 🔭 I’m currently working on RISC-V and binary optimization projects.
+- 🌱 I’m currently studying in East China Normal University School of Data Science and Engineering.
+- 🔭 I’m currently working on binary optimization projects.
 - ⚡ Fun things: guess or contact me!!!
 📮:ytang@stu.ecnu.edu.cn
