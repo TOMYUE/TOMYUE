@@ -1,22 +1,13 @@
-## Hi I'm TOMYUE! 👋
-#### Nice to meet you!
-#### It's so cool connecting with you!
+# Hi, I'm Yue 👋
 
-<!--
-**TOMYUE/TOMYUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at SOLE, interested in binary rewriting and optimization.
+I enjoy understanding how systems work—and finding ways to make them better.
 
-Here are some ideas to get you started:
+### 🔬 Research & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently studying in East China Normal University School of Data Science and Engineering.
-- 🔭 I’m currently working on binary optimization projects.
-- ⚡ Fun things: guess or contact me!!!
-📮:ytang@stu.ecnu.edu.cn
+- **Working on:** Dynamic binary translation
+- **Exploring:** Static binary rewriting and AI agents
+
+### 📬 Get in Touch
+
+[ytang@stu.ecnu.edu.cn](mailto:ytang@stu.ecnu.edu.cn)
